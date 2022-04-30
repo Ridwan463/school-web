@@ -1,0 +1,22 @@
+.head {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.heading {
+    background-color: #8d518d;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+}
+
+.nav-item {
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: #009900;
+}
