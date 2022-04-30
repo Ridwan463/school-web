@@ -20,3 +20,13 @@
 .navbar {
     background-color: #009900;
 }
+
+.content {
+    text-align: center;
+}
+
+.content-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+}
